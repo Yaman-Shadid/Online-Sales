@@ -4,7 +4,14 @@
 
 ## Introduction
 
-The objective of this project is to analyze online sales transactions across different product categories to uncover insights related to sales trends, product performance, and regional preferences. This analysis includes the application of machine learning models to predict product categories and sales volume, as well as clustering techniques to segment customers.
+The objective of this project is to analyze online sales transactions across different product categories to uncover insights related to sales trends, product performance, and regional preferences. The dataset contains transactions involving various product categories such as Electronics, Home Appliances, Clothing, Books, Beauty Products, and Sports. Each transaction includes detailed information like order ID, date, product name, quantity sold, unit price, total price, region, and payment method. This analysis involves:
+
+- Exploring and visualizing sales trends over time to identify seasonal patterns and growth opportunities.
+- Evaluating the popularity and performance of different product categories across regions.
+- Investigating the impact of different payment methods on sales volume and revenue.
+- Applying machine learning models, such as Decision Tree Classifier and K-Nearest Neighbors (KNN) Regressor, to predict product categories and sales volume.
+- Using K-Means clustering to segment customers based on their purchase behavior for targeted marketing strategies.
+
 
 ## Data
 
