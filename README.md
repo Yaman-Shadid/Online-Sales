@@ -111,6 +111,8 @@ Customers are segmented into three clusters based on total revenue and units sol
 
 **K-Means Clustering**: The elbow method was used to determine the optimal number of clusters, and the clustering results were visualized to segment customers based on their purchase behavior.
 
+Although I did not use the models for all visualizations, I did visualize the models themselves to see how it would affect the data itself, and what kind of answers I could get.
+
 ## Recommendations
 
 To determine the practical value of the model accuracy, stakeholders should evaluate the specific context of their application, understanding the trade-offs between precision, recall, and accuracy. Depending on the stakeholders' objectives, model parameters may need to be adjusted, or different algorithms may need to be chosen to optimize these metrics. It is advisable to work closely with domain experts to make informed decisions about model performance, especially when dealing with binary outcomes in scenarios with varying costs and class imbalances.
