@@ -114,13 +114,3 @@ This scatter plot shows the results of K-Means clustering, segmenting customers 
 ## Recommendations
 
 To determine the practical value of the model accuracy, stakeholders should evaluate the specific context of their application, understanding the trade-offs between precision, recall, and accuracy. Depending on the stakeholders' objectives, model parameters may need to be adjusted, or different algorithms may need to be chosen to optimize these metrics. It is advisable to work closely with domain experts to make informed decisions about model performance, especially when dealing with binary outcomes in scenarios with varying costs and class imbalances.
-
----
-
-### Additional Visuals
-
-Include additional visuals and insights from your analysis to provide a comprehensive view of the findings.
-
----
-
-This README file serves as a comprehensive guide to the project's objectives, methods, key findings, and recommendations. It should be included in your portfolio to showcase your analytical and machine learning skills effectively.
