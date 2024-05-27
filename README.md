@@ -18,7 +18,7 @@ The objective of this project is to analyze online sales transactions across dif
 The dataset used in this project contains detailed information about online sales transactions. Each row represents a single transaction with columns for order ID, date, product category, product name, quantity sold, unit price, total price, region, and payment method.
 
 ## Columns:
-Columns:
+
 Order ID: Unique identifier for each sales order.
 
 Date: Date of the sales transaction.
