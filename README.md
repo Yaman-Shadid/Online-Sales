@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The objective of this project is to analyze online sales transactions across different product categories to uncover insights related to sales trends, product performance, and regional preferences. The dataset contains transactions involving various product categories such as Electronics, Home Appliances, Clothing, Books, Beauty Products, and Sports. Each transaction includes detailed information like order ID, date, product name, quantity sold, unit price, total price, region, and payment method. This analysis involves:
+The objective of this project is to analyze online sales transactions across different product categories to uncover insights related to sales trends, product performance, and regional preferences. The dataset contains transactions involving various product categories such as Electronics, Home Appliances, Clothing, Books, Beauty Products, and Sports. This analysis involves:
 
 - Exploring and visualizing sales trends over time to identify seasonal patterns and growth opportunities.
 - Evaluating the popularity and performance of different product categories across regions.
@@ -12,10 +12,9 @@ The objective of this project is to analyze online sales transactions across dif
 - Applying machine learning models, such as Decision Tree Classifier and K-Nearest Neighbors (KNN) Regressor, to predict product categories and sales volume.
 - Using K-Means clustering to segment customers based on their purchase behavior for targeted marketing strategies.
 
+## Data Collection and Source Selection
 
-## Data
-
-The dataset used in this project contains detailed information about online sales transactions. Each row represents a single transaction with columns for order ID, date, product category, product name, quantity sold, unit price, total price, region, and payment method.
+The data was obtained from an online sales dataset, chosen for its comprehensive coverage and relevance to the project's objectives. Each row represents a single transaction with columns for order ID, date, product category, product name, quantity sold, unit price, total price, region, and payment method.
 
 ## Columns:
 
